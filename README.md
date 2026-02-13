@@ -1,1 +1,3 @@
 # Employee_Data-_survey
+
+--This Power BI project analyzes survey data from data professionals across multiple countries, exploring trends in career paths, compensation, job satisfaction, and demographics. The interactive dashboard visualizes insights such as salary ranges by role and industry, favorite programming languages (Python vs. R), happiness metrics (salary, work/life balance, coworkers, management, upward mobility, learning), and career transition difficulty. The dataset includes responses on age, gender, education, ethnicity, and geographic distribution, enabling stakeholders to understand workforce dynamics in the data industry and identify patterns in career progression, salary expectations, and job priorities like remote work preferences. 
